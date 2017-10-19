@@ -1,4 +1,6 @@
-footer: © Azat Mardan 2018 slidenumbers: true theme: Simple, 1 build-lists: true
+footer: © Azat Mardan 2017
+slidenumbers: true 
+theme: Simple, 1 build-lists: true
 
 [.slidenumbers: false] [.hide-footer]
 
