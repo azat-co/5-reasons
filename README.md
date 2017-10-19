@@ -1,4 +1,15 @@
+footer: © Azat Mardan 2018 slidenumbers: true theme: Simple, 1 build-lists: true
+
+[.slidenumbers: false] [.hide-footer]
+
 # 5 Reasons Why Companies Switch to React
+
+---
+
+# Azat Mardan
+
+
+Author of React Quickly [Manning, 2017]
 
 ---
 
@@ -48,24 +59,40 @@ Great for hiring: React stack is cool
 ---
 
 
-# Capital One
+# Demo
 
-* LevelMoney
-* Prototypes
-* Some apps I can't tell about 🙊
+* Component Composition
+* State
+* Props
 
 ---
 
-# Demo
+
+```
+npm i -g create-react-app
+create-react-app clock
+cd clock
+```
+
 
 ---
 
 # Further Study
 
-React Quickly
+React Quickly - the biggest, most comprehensive book on React and React stack
+
+<http://bit.ly/1RbD6l6>
 
 
+---
 
+# Contact me
+
+Twitter: @azat_co
+
+<https://webapplog.com>
+
+<https://node.university>
 
 
 
